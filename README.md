@@ -1,4 +1,4 @@
-Pokedex
+## Survey App
 
 This project is a simple frontend that building a Survey App.
 
