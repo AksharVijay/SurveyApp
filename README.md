@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+Pokedex
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple frontend that building a Survey App.
+
+## Technologies Used
+
+    React Hooks
+    JavaScript
 
 ## Available Scripts
 
